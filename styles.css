@@ -14,21 +14,31 @@ h2{
 
 a {
 	font-size: 18px;
+	text-decoration: none;
 }
 p {
 	font-size: 18px;
 	text-indent: 25px;
 }
 div {
+	position: absolute;
 	padding-left: 15px;
 	padding-top: 2px;
 	padding-bottom: 5px;
-	margin: -13% 20%;
+	margin: -14% 25%;
 	background-color: white;
 }
 
 .without_tab {
 	text-indent: 0px;
+}
+
+#general {
+	padding-left: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin: 1% 1%;
+	background-color: #D8D8D1;
 }
 
 table {
@@ -54,3 +64,4 @@ td {
 #levels {
 	text-align: center;
 }
+style="position: relative; top: -20px; left: -20px;"
