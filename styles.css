@@ -1,5 +1,5 @@
 html {
-	background-color: #D3D3C5;
+	background-color: #D8D8D1;
 	font-family: Arial, sans-serif;
 }
 
@@ -20,10 +20,11 @@ div {
 }
 
 table {
-  table-layout: fixed;
-  width: 15%;
-  border: 5px solid black;
-  border-collapse: collapse;
+	background-color: white;
+	table-layout: fixed;
+	width: 15%;
+	border: 5px solid black;
+	border-collapse: collapse;
 }
 
 th {
@@ -35,4 +36,7 @@ td {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+}
+#levels {
+	text-align: center;
 }
