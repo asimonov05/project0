@@ -22,7 +22,8 @@ div {
 table {
 	background-color: white;
 	table-layout: fixed;
-	width: auto auto;
+	width: 20%;
+	height: auto;
 	border: 5px solid black;
 	border-collapse: collapse;
 }
