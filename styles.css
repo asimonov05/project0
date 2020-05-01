@@ -31,6 +31,7 @@ div {
 	background-color: white;
 }
 
+
 .container {
 	margin:1% 1% 1%;
 	background-color: #D8D8D1;
@@ -40,16 +41,8 @@ div {
 	text-indent: 0px;
 }
 
-#general {
-	padding-left: 0;
-	padding-top: 0;
-	padding-bottom: 0;
-	margin: 1% 1%;
-	background-color: #D8D8D1;
-}
 
 table {
-	float: none;
 	position: fixed;
 	background-color: white;
 	table-layout: fixed;
@@ -73,4 +66,3 @@ td {
 #levels {
 	text-align: center;
 }
-style="position: relative; top: -20px; left: -20px;"
